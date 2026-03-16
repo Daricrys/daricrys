@@ -2,7 +2,7 @@
 # Olá! 👋
 
 Sou uma profissional e estudante interessada na interseção entre **tecnologia, dados e experiência do usuário**.
-Atualmente estou explorando e aprofundando meus conhecimentos e buscando entender como dados, tecnologia e design podem se conectar para construir **produtos digitais mais inteligentes e úteis para as pessoas**.
+Atualmente estou explorando e aprofundando meus conhecimentos para entender como dados, tecnologia e design podem se conectar para construir **produtos digitais mais inteligentes e úteis para as pessoas**.
 
 ---
 
