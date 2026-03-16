@@ -1,12 +1,12 @@
 
-# Olá! 👋
+# Olá, sou Dari :) 
 
 Sou uma profissional e estudante interessada na interseção entre **tecnologia, dados e experiência do usuário**.
 Atualmente estou explorando e aprofundando meus conhecimentos para entender como dados, tecnologia e design podem se conectar para construir **produtos digitais mais inteligentes e úteis para as pessoas**.
 
 ---
 
-## 🚀 Áreas de interesse
+## 🚀 Minhas áreas de interesse:
 
 - Análise de Dados  
 - Machine Learning  
@@ -17,7 +17,7 @@ Atualmente estou explorando e aprofundando meus conhecimentos para entender como
 
 ---
 
-## 📚 Estudando atualmente
+## 📚 O que estou estudando atualmente:
 
 - Fundamentos de **Data Science**
 - **Machine Learning** aplicado a dados
@@ -27,8 +27,9 @@ Atualmente estou explorando e aprofundando meus conhecimentos para entender como
 
 ---
 
-## 🛠 Tecnologias
-### 📊 Dados e Machine Learning
+## 🛠 Tecnologias que uso:
+
+### 📊 Dados e Machine Learning:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
@@ -38,7 +39,7 @@ Atualmente estou explorando e aprofundando meus conhecimentos para entender como
 <img src="https://cdn.simpleicons.org/jupyter" width="35"/>
 </p>
 
-### 💻 Desenvolvimento
+### 💻 Desenvolvimento:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
@@ -46,7 +47,7 @@ Atualmente estou explorando e aprofundando meus conhecimentos para entender como
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
 </p>
 
-### ⚙️ Ferramentas
+### ⚙️ Ferramentas:
 
 ![SQL](https://img.shields.io/badge/SQL-BFD6C8?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-E8DDB5?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -70,12 +71,12 @@ Alguns projetos que estou desenvolvendo ou explorando:
 
 - 📊 Projetos de **análise e exploração de dados**
 - 🤖 Experimentos de **Machine Learning**
-- 🌐 Pequenas aplicações web
+- 🌐 Aplicações web
 - 🧠 Estudos e experimentos em **UX e produto digital**
 
 ---
 
-## 🌎 Conecte-se comigo
+## 🌎 Conecte-se comigo:
 
 - 💼 LinkedIn: https://linkedin.com  
 - 📚 Currículo Lattes: http://lattes.cnpq.br/3213961969170230
