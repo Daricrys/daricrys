@@ -1,4 +1,4 @@
-# daricrys-daricrys
+# daricrys
 # Olá! 👋
 
 Sou uma profissional e estudante interessada na interseção entre **tecnologia, dados e experiência do usuário**.
