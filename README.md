@@ -29,22 +29,22 @@ Atualmente estou explorando e aprofundando meus conhecimentos para entender como
 
 ## 🛠 Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![HTML](https://img.shields.io/badge/HTML-A8BED8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-BFAFD6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E4B0C3?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E8DDB5?style=for-the-badge&logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-BFD6C8?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-BFD6D8?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E4B0C3?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-A8BED8?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daricrys&show_icons=true&theme=catppuccin_latte&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daricrys&layout=compact&theme=catppuccin_latte&hide_border=true)
 
 ---
 
