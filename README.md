@@ -28,15 +28,31 @@ Atualmente estou explorando e aprofundando meus conhecimentos para entender como
 ---
 
 ## 🛠 Tecnologias
+### 📊 Dados e Machine Learning
 
-![HTML](https://img.shields.io/badge/HTML-A8BED8?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-BFAFD6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-E4B0C3?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-E8DDB5?style=for-the-badge&logo=python&logoColor=black)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="35"/>
+<img src="https://cdn.simpleicons.org/jupyter" width="35"/>
+</p>
+
+### 💻 Desenvolvimento
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+</p>
+
+### ⚙️ Ferramentas
+
 ![SQL](https://img.shields.io/badge/SQL-BFD6C8?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-BFD6D8?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-E8DDB5?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E4B0C3?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-A8BED8?style=for-the-badge&logo=linux&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-BFD6D8?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
