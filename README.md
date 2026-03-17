@@ -10,10 +10,13 @@ Atualmente estou explorando e aprofundando meus conhecimentos para entender como
 
 - Análise de Dados  
 - Machine Learning  
-- Data Science  
+- Data Science
+- Inteligência Artificial 
 - UX (User Experience)  
-- Engenharia de Software  
-- Produto Digital e Tecnologia
+- Engenharia de Software
+- Inovação Aberta 
+- Produto Digital
+
 
 ---
 
