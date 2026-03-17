@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, sou Dari :)</h1>
+<h1 align="center">Olá, sou a Dari :)</h1>
 
 Sou uma profissional e estudante interessada na interseção entre tecnologia, dados e experiência do usuário.
 Atualmente aprofundo meus estudos em análise de dados, machine learning, UX e engenharia de software, buscando compreender como dados, tecnologia e design podem se conectar para construir produtos digitais mais inteligentes, úteis e centrados nas pessoas.
