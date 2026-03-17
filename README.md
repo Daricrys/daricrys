@@ -58,24 +58,6 @@ Atualmente estou explorando e aprofundando meus conhecimentos para entender como
 ![Linux](https://img.shields.io/badge/Linux-A8BED8?style=for-the-badge&logo=linux&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-BFD6D8?style=for-the-badge&logo=anaconda&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daricrys&show_icons=true&theme=catppuccin_latte&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daricrys&layout=compact&theme=catppuccin_latte&hide_border=true)
-
----
-
-## 💻 Projetos
-
-Alguns projetos que estou desenvolvendo ou explorando:
-
-- 📊 Projetos de **análise e exploração de dados**
-- 🤖 Experimentos de **Machine Learning**
-- 🌐 Aplicações web
-- 🧠 Estudos e experimentos em **UX e produto digital**
 
 ---
 
