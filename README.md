@@ -11,17 +11,6 @@ Atualmente aprofundo meus estudos em análise de dados, machine learning, UX e e
 📊 Análise de Dados • 📈 Data Science • 🤖 Machine Learning • 🧠 Inteligência Artificial  
 🎨 UX • 💻 Engenharia de Software • 🚀 Produto Digital • 🌐 Inovação Aberta
 
-
-
-## 📚 Como estou aprendendo e desenvolvendo minhas habilidades:
-- Estudando os fundamentos de **Data Science**
-- Praticando **Machine Learning** aplicado à análise de dados
-- Aprendendo **Estruturas de Dados e Algoritmos**
-- Estudando **Arquitetura e Engenharia de Software**
-- Explorando **UX e comportamento do usuário em produtos digitais**
-- Desenvolvendo projetos e experimentos com **dados e tecnologia**
-
-
 ## 🛠 Tecnologias que uso:
 ### 📊 Dados e Machine Learning:
 <p align="left">
@@ -46,6 +35,14 @@ Atualmente aprofundo meus estudos em análise de dados, machine learning, UX e e
 ![Linux](https://img.shields.io/badge/Linux-A8BED8?style=for-the-badge&logo=linux&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-BFD6D8?style=for-the-badge&logo=anaconda&logoColor=white)
 
+
+## 📚 Como estou aprendendo e desenvolvendo minhas habilidades:
+- Estudando os fundamentos de **Data Science**
+- Praticando **Machine Learning** aplicado à análise de dados
+- Aprendendo **Estruturas de Dados e Algoritmos**
+- Estudando **Arquitetura e Engenharia de Software**
+- Explorando **UX e comportamento do usuário em produtos digitais**
+- Desenvolvendo projetos e experimentos com **dados e tecnologia**
 
 
 ## 🌎 Conecte-se comigo:
