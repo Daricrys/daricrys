@@ -34,6 +34,8 @@ Atualmente aprofundo meus estudos em análise de dados, machine learning, UX e e
 ![Git](https://img.shields.io/badge/Git-E4B0C3?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-A8BED8?style=for-the-badge&logo=linux&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-BFD6D8?style=for-the-badge&logo=anaconda&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-E4B0C3?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-BFAFD6?style=for-the-badge&logo=jira&logoColor=white)
 
 
 ## 📚 Como estou aprendendo e desenvolvendo minhas habilidades:
